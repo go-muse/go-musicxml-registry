@@ -1,0 +1,217 @@
+{
+  "source_repository": "go-muse/go-musicxml",
+  "source_commit": "a7927e591e817ec8fddaab2ee4d33ccf80c37bd0",
+  "source_path": "docs/validation/",
+  "source_url": "https://github.com/go-muse/go-musicxml/tree/a7927e591e817ec8fddaab2ee4d33ccf80c37bd0/docs/validation",
+  "files": [
+    {
+      "path": "docs/validation/README.md",
+      "git_blob_sha1": "5fdc8dc8acae157226cd84b025755bc66a95b67a",
+      "bytes": 1591,
+      "mode": "100644",
+      "sha256": "acb3aaa6fe83a82d186338604142ed95b8565ed5b183b5aa2c6df8d4dd1a7870"
+    },
+    {
+      "path": "docs/validation/architecture.md",
+      "git_blob_sha1": "e84c5d80ff074d7805a20cd4156e82906ba2b418",
+      "bytes": 29572,
+      "mode": "100644",
+      "sha256": "6ce059e1fdf1a3c6a2bda00b72d4be6cabfb803c21f5d4f59bb4142d8743883f"
+    },
+    {
+      "path": "docs/validation/existing-code-map.md",
+      "git_blob_sha1": "a648e42e245193946a89aaee23f0a60ae258b828",
+      "bytes": 11851,
+      "mode": "100644",
+      "sha256": "6080fa72a84e4fd7576abe42d78d1185122d8626e109d435532c0a042a2b33fc"
+    },
+    {
+      "path": "docs/validation/open-questions.md",
+      "git_blob_sha1": "ab16ebf69137f542443870e45cdb9f195734c4b1",
+      "bytes": 18503,
+      "mode": "100644",
+      "sha256": "599979de0abc9c1b0f866aece367b456aa3ea483dfe3cfcec1b774bfcd2885da"
+    },
+    {
+      "path": "docs/validation/registry/README.md",
+      "git_blob_sha1": "fc6cc5732ab9c9878756de9f8c255069a5c5e714",
+      "bytes": 4755,
+      "mode": "100644",
+      "sha256": "4108e47f29c501dd559513eea77eb05865342287adbea2929dce6e2dea329994"
+    },
+    {
+      "path": "docs/validation/registry/catalog.json",
+      "git_blob_sha1": "ae20b8aa12f7d4949114d9566debff80fd0a5f61",
+      "bytes": 7614449,
+      "mode": "100644",
+      "sha256": "17e979012e257e7ae126504c461a578b4dbb94515794cf2dc4f9e34cb8f4be68"
+    },
+    {
+      "path": "docs/validation/registry/coverage-reconciliation.json",
+      "git_blob_sha1": "1864a0c39ba4c03576973ea8d97d3a3715addda4",
+      "bytes": 4504,
+      "mode": "100644",
+      "sha256": "563f597fa85f0e4afac9e9663245cafeb4a92695ad24457461f6bd4099b279c9"
+    },
+    {
+      "path": "docs/validation/registry/issues.json",
+      "git_blob_sha1": "a62b01772d206fbba454911f471d4db85a9accd5",
+      "bytes": 83968,
+      "mode": "100644",
+      "sha256": "ff17a5123e7b113187591b9dde40edd0b4d14c65cdca3a629969de386784cec5"
+    },
+    {
+      "path": "docs/validation/registry/manifest.json",
+      "git_blob_sha1": "9ea614de159baada406028b1a4c60b64661f72ba",
+      "bytes": 3783,
+      "mode": "100644",
+      "sha256": "4438da6a50b99847a9b15af55cca956e32b60e893a7cc15d1b3492a693979f96"
+    },
+    {
+      "path": "docs/validation/registry/packaging-provenance.json",
+      "git_blob_sha1": "54fcf534dcaece68e0279900be6e4dfc321552cc",
+      "bytes": 5024,
+      "mode": "100644",
+      "sha256": "ff6feaf157ffea470c2ce029bee226ef56f32ed270636fad372d6bc3c972466d"
+    },
+    {
+      "path": "docs/validation/registry/prose/archive-equivalence.json",
+      "git_blob_sha1": "1d6f68691ad837d38846e4d454f5f58f2c29e64f",
+      "bytes": 112696,
+      "mode": "100644",
+      "sha256": "5a0bb0525d471f4fe7cedeafffdbf0ef54d9e9afc85cefa30fc4b7dca08a8965"
+    },
+    {
+      "path": "docs/validation/registry/prose/coverage-ledger.json",
+      "git_blob_sha1": "c4c670ab5ce54f0d01c84f37131a8edecd8c204c",
+      "bytes": 1198749,
+      "mode": "100644",
+      "sha256": "e081f5aab4a9ad53fb16e138f8280749cf412f1a5b4240061c97f70f6abd30e3"
+    },
+    {
+      "path": "docs/validation/registry/prose/github-archive-provenance.json",
+      "git_blob_sha1": "b598fd3a4f5c8adace41652f5e3d61e8ec10f515",
+      "bytes": 298,
+      "mode": "100644",
+      "sha256": "8f23de0aed4cb8a2b4d315825ca13a3f88db13db692299feefab3fca54b83255"
+    },
+    {
+      "path": "docs/validation/registry/prose/html-attribute-coverage.json",
+      "git_blob_sha1": "a55afc5c74379186298d17464eae5a1f60375e51",
+      "bytes": 321386,
+      "mode": "100644",
+      "sha256": "a884dccf670815eb344294834fe89ee0c84f92293933b4b158362e653f21e763"
+    },
+    {
+      "path": "docs/validation/registry/prose/verification.json",
+      "git_blob_sha1": "164945b9b5f6e0e021be2df3e6687b754f94c166",
+      "bytes": 1500,
+      "mode": "100644",
+      "sha256": "c5f25f7ddd43cfeec3d0485b94168054797e0eecd1dd9731ac0352b2222f7b91"
+    },
+    {
+      "path": "docs/validation/registry/reconciliation.json",
+      "git_blob_sha1": "e9ec42bf526290081e9fd400cc223cd5cef26f24",
+      "bytes": 268469,
+      "mode": "100644",
+      "sha256": "03fc0a52bd2e886617c0efbb07569f677c9bd3fefc624a67d31a96de4a14007f"
+    },
+    {
+      "path": "docs/validation/registry/rule-definition-examples.json",
+      "git_blob_sha1": "c46897bcba8b8e203bff40bb2312b7e63e0355ef",
+      "bytes": 18735,
+      "mode": "100644",
+      "sha256": "469ce216d72416e3fe2d9b3865f10e144ec6bcef9b280ec8a6396880fdcf2541"
+    },
+    {
+      "path": "docs/validation/registry/xsd/independent-verification.json",
+      "git_blob_sha1": "7332e9ee8d513e3aeecf07fb7be1bd4bd46be9ff",
+      "bytes": 814,
+      "mode": "100644",
+      "sha256": "b6417bb6985fb6adf79053ff9e4ffae2923e48f91defad2542ea1612799504b9"
+    },
+    {
+      "path": "docs/validation/registry/xsd/language-semantics.json",
+      "git_blob_sha1": "8319ac53552875091ad4568b02cb8ed41898cdd6",
+      "bytes": 28398,
+      "mode": "100644",
+      "sha256": "d82e609920af15cd890c5c3a3a9226771360017852288a6853f1f126d74b3949"
+    },
+    {
+      "path": "docs/validation/registry/xsd/occurrence-registry.json",
+      "git_blob_sha1": "0181d484332b8b6702dd8c14db9b857ba9614404",
+      "bytes": 4922684,
+      "mode": "100644",
+      "sha256": "d1851c59e88bac62987c81f6c45c7959ef920c586acd82334e6eeba25d3104d0"
+    },
+    {
+      "path": "docs/validation/registry/xsd/occurrence-requirement-map.json",
+      "git_blob_sha1": "ecafff944b5789725b37daab8ce9e27dbaf65ccf",
+      "bytes": 400573,
+      "mode": "100644",
+      "sha256": "565acf9cffe7492adffbe58af276499d23199c1edb4013bfd96609c3335ae8af"
+    },
+    {
+      "path": "docs/validation/registry/xsd/property-glossary.json",
+      "git_blob_sha1": "736b6620da0c7a1a3e93af7ddd0cd1b1d80db345",
+      "bytes": 3472,
+      "mode": "100644",
+      "sha256": "041937425fc862021515db98e2424d274f455350d3b90ce82ad638341325feed"
+    },
+    {
+      "path": "docs/validation/registry/xsd/reference-graph.json",
+      "git_blob_sha1": "9e05f9a10d50b636583a5aed8b417bd9eb60c50b",
+      "bytes": 943072,
+      "mode": "100644",
+      "sha256": "afaa54c8367c64972c130a189aeb007a9ec1ffa21b0b75817b273c4e6fd6c428"
+    },
+    {
+      "path": "docs/validation/registry/xsd/schema-compilation-check.json",
+      "git_blob_sha1": "cb47cb83d25b0c6ec38a66d0eda51b128d90b616",
+      "bytes": 870,
+      "mode": "100644",
+      "sha256": "2be1504d4a2ea5c90250b8b4b76c24f94ca0243d298db7f1967298a6fc6d8b5c"
+    },
+    {
+      "path": "docs/validation/registry/xsd/scope-and-applicability.json",
+      "git_blob_sha1": "0f35fa1ea4ceb1d2f8604ddefc86c9215dee54fb",
+      "bytes": 6058,
+      "mode": "100644",
+      "sha256": "f829d1d7f660c8eb1c434c9dae4e2c9f17e541427d71c5c33293a426526e9971"
+    },
+    {
+      "path": "docs/validation/registry/xsd/source-coverage.json",
+      "git_blob_sha1": "8ad1d96173ab44990504e64e7be3baf9271875d0",
+      "bytes": 12360,
+      "mode": "100644",
+      "sha256": "3f8b5200283172c5db509bd011620a04d6175865d5bab33889737418346452db"
+    },
+    {
+      "path": "docs/validation/registry/xsd/source-provenance.json",
+      "git_blob_sha1": "65494d5821dbb2cc66ab51c7b11af54aadbc942a",
+      "bytes": 7991,
+      "mode": "100644",
+      "sha256": "0f87582261f6c7d59f3d7377bf7ed72b65fe931ac8ff3b2a141f6499042d7f28"
+    },
+    {
+      "path": "docs/validation/sources-and-coverage.md",
+      "git_blob_sha1": "dd3b7420cfda028021bd6644f55dd31f7b1ddcbe",
+      "bytes": 14508,
+      "mode": "100644",
+      "sha256": "ab17c6e67448a31bf21d8dee966605c7f485fa99f86d26b0c5d4364ef72dd45c"
+    }
+  ],
+  "format": "musicxml-validation-registry-import-1",
+  "imported_at": "2026-10-08",
+  "source_pull_request": "https://github.com/go-muse/go-musicxml/pull/11",
+  "source_product_commit": "e486735cd6e4537e839ff67704b7768a9df3bdb3",
+  "upstream_musicxml_commit": "799e2defb2ece0ae7bafe08dcbcac25b2c631d53",
+  "policy": "All imported files are byte-for-byte copies of the pinned source commit. This record describes the initial import; later changes require documented provenance.",
+  "license_source": {
+    "repository": "go-muse/go-musicxml",
+    "commit": "a7927e591e817ec8fddaab2ee4d33ccf80c37bd0",
+    "path": "LICENSE",
+    "git_blob_sha1": "8b5e90093559fd38bd875816d219ad41e0272d22",
+    "scope": "Original project contributions only; third-party evidence retains its upstream terms."
+  }
+}

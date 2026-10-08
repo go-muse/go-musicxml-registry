@@ -1,0 +1,187 @@
+{
+  "format": "go-musicxml-registry-manifest-1",
+  "snapshot_date": "2026-10-08",
+  "scope": "All repository files except this manifest, .git, Python bytecode/cache, and .DS_Store. Paths are relative to the repository root.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 33,
+      "sha256": "fa5b2d4433b835933b22140e01833a4972a0ee8532d76951286e3dd071994af0"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 2903,
+      "sha256": "71545f2627ea2888346bf9f88ae37afbf322234fee50abd2cbc18ba9a2c09023"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1081,
+      "sha256": "2ba5605beae23283a602b4125c871285775fa49b3076caaf3f04f9aec22186a2"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "bytes": 3471,
+      "sha256": "6cf27756faf1fff553bc79efe4131c2e9683166efc31ab859131ac7358fc4390"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6285,
+      "sha256": "5e937a4f9e4e922d37a0af8c2347eaa0c45d1a724a5f73f10ceee91c2753c6f5"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 3081,
+      "sha256": "02ad0cfcdd9f6801816e9923c0ef1fd9b6de249193c402dd097defc86398f8d9"
+    },
+    {
+      "path": "docs/validation/README.md",
+      "bytes": 1591,
+      "sha256": "acb3aaa6fe83a82d186338604142ed95b8565ed5b183b5aa2c6df8d4dd1a7870"
+    },
+    {
+      "path": "docs/validation/architecture.md",
+      "bytes": 29572,
+      "sha256": "6ce059e1fdf1a3c6a2bda00b72d4be6cabfb803c21f5d4f59bb4142d8743883f"
+    },
+    {
+      "path": "docs/validation/existing-code-map.md",
+      "bytes": 11851,
+      "sha256": "6080fa72a84e4fd7576abe42d78d1185122d8626e109d435532c0a042a2b33fc"
+    },
+    {
+      "path": "docs/validation/open-questions.md",
+      "bytes": 18503,
+      "sha256": "599979de0abc9c1b0f866aece367b456aa3ea483dfe3cfcec1b774bfcd2885da"
+    },
+    {
+      "path": "docs/validation/registry/README.md",
+      "bytes": 4755,
+      "sha256": "4108e47f29c501dd559513eea77eb05865342287adbea2929dce6e2dea329994"
+    },
+    {
+      "path": "docs/validation/registry/catalog.json",
+      "bytes": 7614449,
+      "sha256": "17e979012e257e7ae126504c461a578b4dbb94515794cf2dc4f9e34cb8f4be68"
+    },
+    {
+      "path": "docs/validation/registry/coverage-reconciliation.json",
+      "bytes": 4504,
+      "sha256": "563f597fa85f0e4afac9e9663245cafeb4a92695ad24457461f6bd4099b279c9"
+    },
+    {
+      "path": "docs/validation/registry/issues.json",
+      "bytes": 83968,
+      "sha256": "ff17a5123e7b113187591b9dde40edd0b4d14c65cdca3a629969de386784cec5"
+    },
+    {
+      "path": "docs/validation/registry/manifest.json",
+      "bytes": 3783,
+      "sha256": "4438da6a50b99847a9b15af55cca956e32b60e893a7cc15d1b3492a693979f96"
+    },
+    {
+      "path": "docs/validation/registry/packaging-provenance.json",
+      "bytes": 5024,
+      "sha256": "ff6feaf157ffea470c2ce029bee226ef56f32ed270636fad372d6bc3c972466d"
+    },
+    {
+      "path": "docs/validation/registry/prose/archive-equivalence.json",
+      "bytes": 112696,
+      "sha256": "5a0bb0525d471f4fe7cedeafffdbf0ef54d9e9afc85cefa30fc4b7dca08a8965"
+    },
+    {
+      "path": "docs/validation/registry/prose/coverage-ledger.json",
+      "bytes": 1198749,
+      "sha256": "e081f5aab4a9ad53fb16e138f8280749cf412f1a5b4240061c97f70f6abd30e3"
+    },
+    {
+      "path": "docs/validation/registry/prose/github-archive-provenance.json",
+      "bytes": 298,
+      "sha256": "8f23de0aed4cb8a2b4d315825ca13a3f88db13db692299feefab3fca54b83255"
+    },
+    {
+      "path": "docs/validation/registry/prose/html-attribute-coverage.json",
+      "bytes": 321386,
+      "sha256": "a884dccf670815eb344294834fe89ee0c84f92293933b4b158362e653f21e763"
+    },
+    {
+      "path": "docs/validation/registry/prose/verification.json",
+      "bytes": 1500,
+      "sha256": "c5f25f7ddd43cfeec3d0485b94168054797e0eecd1dd9731ac0352b2222f7b91"
+    },
+    {
+      "path": "docs/validation/registry/reconciliation.json",
+      "bytes": 268469,
+      "sha256": "03fc0a52bd2e886617c0efbb07569f677c9bd3fefc624a67d31a96de4a14007f"
+    },
+    {
+      "path": "docs/validation/registry/rule-definition-examples.json",
+      "bytes": 18735,
+      "sha256": "469ce216d72416e3fe2d9b3865f10e144ec6bcef9b280ec8a6396880fdcf2541"
+    },
+    {
+      "path": "docs/validation/registry/xsd/independent-verification.json",
+      "bytes": 814,
+      "sha256": "b6417bb6985fb6adf79053ff9e4ffae2923e48f91defad2542ea1612799504b9"
+    },
+    {
+      "path": "docs/validation/registry/xsd/language-semantics.json",
+      "bytes": 28398,
+      "sha256": "d82e609920af15cd890c5c3a3a9226771360017852288a6853f1f126d74b3949"
+    },
+    {
+      "path": "docs/validation/registry/xsd/occurrence-registry.json",
+      "bytes": 4922684,
+      "sha256": "d1851c59e88bac62987c81f6c45c7959ef920c586acd82334e6eeba25d3104d0"
+    },
+    {
+      "path": "docs/validation/registry/xsd/occurrence-requirement-map.json",
+      "bytes": 400573,
+      "sha256": "565acf9cffe7492adffbe58af276499d23199c1edb4013bfd96609c3335ae8af"
+    },
+    {
+      "path": "docs/validation/registry/xsd/property-glossary.json",
+      "bytes": 3472,
+      "sha256": "041937425fc862021515db98e2424d274f455350d3b90ce82ad638341325feed"
+    },
+    {
+      "path": "docs/validation/registry/xsd/reference-graph.json",
+      "bytes": 943072,
+      "sha256": "afaa54c8367c64972c130a189aeb007a9ec1ffa21b0b75817b273c4e6fd6c428"
+    },
+    {
+      "path": "docs/validation/registry/xsd/schema-compilation-check.json",
+      "bytes": 870,
+      "sha256": "2be1504d4a2ea5c90250b8b4b76c24f94ca0243d298db7f1967298a6fc6d8b5c"
+    },
+    {
+      "path": "docs/validation/registry/xsd/scope-and-applicability.json",
+      "bytes": 6058,
+      "sha256": "f829d1d7f660c8eb1c434c9dae4e2c9f17e541427d71c5c33293a426526e9971"
+    },
+    {
+      "path": "docs/validation/registry/xsd/source-coverage.json",
+      "bytes": 12360,
+      "sha256": "3f8b5200283172c5db509bd011620a04d6175865d5bab33889737418346452db"
+    },
+    {
+      "path": "docs/validation/registry/xsd/source-provenance.json",
+      "bytes": 7991,
+      "sha256": "0f87582261f6c7d59f3d7377bf7ed72b65fe931ac8ff3b2a141f6499042d7f28"
+    },
+    {
+      "path": "docs/validation/sources-and-coverage.md",
+      "bytes": 14508,
+      "sha256": "ab17c6e67448a31bf21d8dee966605c7f485fa99f86d26b0c5d4364ef72dd45c"
+    },
+    {
+      "path": "provenance/initial-import.json",
+      "bytes": 8754,
+      "sha256": "34970728a58b4019e00aa491b2a43fcfda3fe7d4fa4fd8fbe51b8062fba1abfc"
+    },
+    {
+      "path": "scripts/validate_registry.py",
+      "bytes": 10542,
+      "sha256": "cc74dedf1c1a38625b4036190f65b9b8412d0ffbc077624af0c3e5d5a23f9a2b"
+    }
+  ]
+}
